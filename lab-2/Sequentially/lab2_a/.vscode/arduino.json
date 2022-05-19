@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "lab2_a.ino",
+    "port": "COM3"
+}
